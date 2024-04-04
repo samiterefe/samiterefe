@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Samuel Terefe</h1>
-<h3>Self-taught Senior Full Stack Developer with 5+ years of experience</h3>
+<h3>Self-taught Senior Full Stack Developer with 2+ years of experience</h3>
 
 - 📫 How to reach me **samuelterefe2@gmail.com**
 
