@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Samuel Terefe</h1>
 <h3>Self-taught Senior Full Stack Developer with 2+ years of experience</h3>
 
-- 📫 How to reach me **samuelterefe2@gmail.com**
+- 📫 portfolio website **[Samuel Teref](https://samuelterefe.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
