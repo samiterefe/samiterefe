@@ -2,8 +2,6 @@
 <h3>Self-taught Mid-level Full Stack Developer with 2+ years of experience</h3>
 <h3>Computer Science Graduate    </h3>
 - 📫 Email **samuelterefe2@gmail.com**
-**See My Portifolio website**
-<a href="https://samuelterefe.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelterefe" height="30" width="40" />Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
