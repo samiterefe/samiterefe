@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Samuel Terefe</h1>
-<h3>Self-taught Mid-level Full Stack Developer with 2+ years of experience</h3>
-<h3>Computer Science Graduate    </h3>
+<h3>Mid-level Full Stack Developer with 3+ years of experience</h3>
+<h3>Computer Science Graduate</h3>
 - 📫 Email **samuelterefe2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
