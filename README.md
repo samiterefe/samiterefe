@@ -3,7 +3,7 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Ex Part of Pinely International</li>
+<li>👾 Computer Science Graduate</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 Fullstack Stack Developer</li>
 <li>📫 How to reach me: samuelterefe2@gmail.com</li>
