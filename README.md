@@ -3,10 +3,10 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Part of Pinely International</li>
+<li>👾 Ex Part of Pinely International</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: samuel.terefe@pinely.eu</li>
+<li>💻 Fullstack Stack Developer</li>
+<li>📫 How to reach me: samuelterefe2@gmail.com</li>
 </ul>
 
 <div>
