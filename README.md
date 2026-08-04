@@ -5,7 +5,7 @@
 <ul>
 <li>👾 Computer Science Graduate</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 Fullstack Stack Developer</li>
+<li>💻 Frontend Developer</li>
 <li>📫 How to reach me: samuelterefe2@gmail.com</li>
 </ul>
 
